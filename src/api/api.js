@@ -5,12 +5,7 @@ import firebase from 'firebase/compat/app'
 // Your web app's Firebase configuration
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAo6QzsnwTk3cUvhsQXRuvKEYsveRSZ0gM",
-  authDomain: "i-media-sharer.firebaseapp.com",
-  projectId: "i-media-sharer",
-  storageBucket: "i-media-sharer.appspot.com",
-  messagingSenderId: "527203090113",
-  appId: "1:527203090113:web:3d35e41d4d338e01435e40"
+
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
